@@ -39,8 +39,7 @@ export const MARQUEE = ['React.js', 'Node.js', 'PHP', 'Next.js', 'MySQL', 'REST 
 
 // s / e = months since Nov 2024 (e: null means "now")
 export const JOBS = [
-  { co: '3DM Solutions', short: 'Full Stack Developer', yr: '2026 – Present', live: true, when: '2026 – Present', meta: ['Karachi, Pakistan', 'Current role'],
-    roles: [['FS', 'Full Stack Developer', 'Working on FINAC, the company’s ERP for businesses across Pakistan.']], tags: ['ERP', 'Full stack', 'FINAC'], s: 23, e: null, color: 'var(--violet)' },
+
   { co: 'Web Octane', short: 'Full Stack Engineer · Web Developer', yr: 'Jan 2025 – Oct 2026', when: 'Jan 2025 – Oct 2026 · 1 yr 10 mos', meta: ['Karachi, Sindh', 'On-site', 'Full-time'],
     roles: [['FS', 'Full Stack Engineer', 'WordPress and e-commerce work, from setup to launch.'], ['WD', 'Web Developer', 'Web and mobile interfaces with React.js and React Native.']], tags: ['WordPress', 'E-commerce', 'React.js', 'React Native'], s: 2, e: 23, color: 'var(--ink)' },
   { co: 'Mark Solve', short: 'Web Developer', yr: 'Nov – Dec 2024', when: 'Nov 2024 – Dec 2024 · 2 mos', meta: ['Lahore, Punjab', 'Remote', 'Full-time'],
